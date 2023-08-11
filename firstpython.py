@@ -1,2 +1,2 @@
 #To disply some output
-print("I've cloned github and edited in local system")
+print("Come on try and fetch data directly from repository")
